@@ -93,7 +93,7 @@ MongoDB'nin yerel olarak kurulu olduğundan ve çalıştığından emin olun. E�
   mongod
 ```
 ### Adım 4:.env Dosyasını Güncelleyin
-.env dosyasındaki MONGO_URI değişkeni içersinde kendi mongoDB URI'nizi belirtin.
+.env dosyasındaki MONGO_URI değişkeni içersinde (eğer default url farklı ise) kendi mongoDB URI'nizi belirtin.
 
 ### Adım 5:Backend Sunucusunu Başlatın
 ```bash 
