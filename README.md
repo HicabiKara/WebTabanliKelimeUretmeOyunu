@@ -13,25 +13,25 @@ HeptaWord MERN stack teknolojileri kullanılarak geliştirilmiş belirli kuralla
 ## Ekran Görüntüleri/Screeenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71542ab2-ed7f-4c6b-af2f-93e0758face9" alt="Proje Anasayfa Alanı"/>
+  <img src="https://github.com/user-attachments/assets/deaf08d6-8e60-42d9-944f-73810bf36a25" alt="Proje Anasayfa Alanı"/>
   <br>
   <i>Anasayfa alanının görünümü.</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eba177f7-80ae-446b-a0dd-3f0fc87513cf" alt="Oyunu oynama alanı"/>
+  <img src="https://github.com/user-attachments/assets/22d75b64-d959-4403-9bf6-b2ab47903595" alt="Oyunu oynama alanı"/>
   <br>
   <i>Oyunun oynandığı alanın görünümü.</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d908a2da-50eb-4b3f-9980-ae0d1721cc88" alt="Oyunun başlaması durumu"/>
+  <img src="https://github.com/user-attachments/assets/59b983b3-e8c6-43d7-91d2-41d5bd56b013" alt="Oyunun başlaması durumu"/>
   <br>
   <i>Oyunun başlaması durumundaki ekran.</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69076fbe-8691-4749-8f91-9cffcdffb64a" alt="Oyunun başlaması durumu"/>
+  <img src="https://github.com/user-attachments/assets/a90a4922-0c58-4d8b-8efb-a124c10a0b8f" alt="Oyunun başlaması durumu"/>
   <br>
   <i>Kullanıcı hesabım sayfası-Hesap bilgileri </i>
 </p>
