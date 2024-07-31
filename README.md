@@ -37,7 +37,7 @@ HeptaWord MERN stack teknolojileri kullanılarak geliştirilmiş belirli kuralla
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7436dec-68af-4d21-9bb1-0d647cc96e3f" alt="Oyunun başlaması durumu"/>
+  <img src="https://github.com/user-attachments/assets/26817c04-f40c-4eca-a4a3-43f58ba47a37" alt="Oyunun başlaması durumu"/>
   <br>
   <i>Kullanıcı hesabım sayfası-oyun verilerini görüntüleme </i>
 </p>
